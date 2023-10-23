@@ -1,7 +1,3 @@
-# Portfolio-optimization
-Of course! Let's craft a detailed introductory documentation for your project:
-
----
 
 # Stock Portfolio Optimization
 
@@ -29,6 +25,4 @@ During the project, a few challenges were encountered:
 2. **Optimization Logic**: Determining the best weights for each stock in the portfolio required running multiple simulations to determine the ideal balance. Using the Sharpe ratio as a metric, the project was able to identify portfolios with maximum returns for a given risk.
 3. **Visualization**: Presenting the portfolio's daily returns, stock prices, and efficient frontier demanded intuitive visualizations. Matplotlib facilitated the creation of comprehensive graphs that clearly communicated the results.
 
----
 
-This introductory documentation provides a clear overview of your project. When showcasing it, it will give viewers or readers a good understanding of what to expect and the methodologies employed.
